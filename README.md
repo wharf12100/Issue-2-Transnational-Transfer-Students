@@ -1,1 +1,21 @@
-# Issue-2-Transnational-Transfer-Students
+# 黑板上看不懂的文字：拆分版
+
+這個資料夾是由原本的單一 HTML 拆分而成。
+
+## 檔案用途
+
+- `index.html`：頁面骨架與文章內容
+- `style.css`：所有自訂樣式
+- `data.js`：角色資料、題目、選項、模擬遊戲資料
+- `script.js`：頁面互動、答題、解鎖章節、圖表與遊戲邏輯
+
+## 使用方式
+
+直接用瀏覽器開啟 `index.html` 即可預覽。
+
+## 修改建議
+
+- 要改題目、選項、詳解：優先改 `data.js`
+- 要改按鈕、切換頁面、解鎖流程：改 `script.js`
+- 要改顏色、字級、版面：改 `style.css`
+- 要改文章段落與章節文字：改 `index.html`
